@@ -1,8 +1,8 @@
 # JAVA_ChobabMasterGame
  
 
-◈ 작품 이름
-초밥의 달인 타이쿤
+◈ 작품 이름<br>
+초밥의 달인 타이쿤<br>
 초밥의 달인은 플레이어가 주방장이 되어 초밥집을 운영 하는 게임입니다.<br>
 https://bluedogs.tistory.com/210?category=991247
 
